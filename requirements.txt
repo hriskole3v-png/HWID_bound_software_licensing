@@ -1,0 +1,5 @@
+cryptography==46.0.6
+
+# Dev / test
+pytest==8.2.0
+ruff==0.4.4
