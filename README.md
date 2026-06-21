@@ -1,6 +1,5 @@
 # HWID-Bound Software Licensing
 
-![CI](https://github.com/YOURUSERNAME/hwid-license-demo/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A from-scratch implementation of hardware-bound software licensing: signed
